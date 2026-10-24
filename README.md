@@ -33,15 +33,28 @@ The project follows an end-to-end analytics workflow, from source data preparati
 ## Dashboard Pages
 
 ### 1. Executive Overview
+
+<img width="1445" height="813" alt="Screenshot_Executive_Overview" src="https://github.com/user-attachments/assets/c7dfb5f2-fb42-49e9-8ee2-ae7bc4471be1" />
+
+
 Provides a high-level summary of sales, profit, profit margin, discounts, and marketing performance.
 
 ### 2. Revenue Growth Drivers
+
+<img width="1446" height="812" alt="Screenshot_Revenue_Growth_Drivers" src="https://github.com/user-attachments/assets/3917ee8b-8c32-460e-9a52-4f00d7886ea7" />
+
 Examines sales trends, monthly growth, product contributions, and revenue performance.
 
 ### 3. Promotion Effectiveness
+
+<img width="1445" height="812" alt="Screenshot_Promotion_Effiectiveness" src="https://github.com/user-attachments/assets/7f0c28d0-ff92-4da9-a833-a581e22d488b" />
+
 Compares promotion types using sales and profitability metrics.
 
 ### 4. Sales Channel & Marketing Efficiency
+
+<img width="1443" height="810" alt="Screenshot_SalesChannel Marketing_Efficiency" src="https://github.com/user-attachments/assets/ac90327d-c498-497c-8ece-d8c86c33b1c4" />
+
 Evaluates channel performance, marketing spend, and profitability.
 
 ## Key Findings
