@@ -78,9 +78,9 @@ Evaluates channel performance, marketing spend, and profitability.
 ## Repository Structure
 
 - `data/` — fmcg_sales_marketing_profitability_2023_2025_Source
-- `dashboard/` — ToeWaiAung
-- `screenshots/` — Dashboard_Screenshots
-- `report/` — Project_01_Executive_Summary_Report
+- `data/` — ToeWaiAung
+- `data/` — Dashboard_Screenshots
+- `data/` — Project_01_Executive_Summary_Report
 
 ## How to Explore the Project
 
