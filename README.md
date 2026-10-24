@@ -88,7 +88,7 @@ Evaluates channel performance, marketing spend, and profitability.
 2. Read the Management Summary Report in the `Project_01_Executive_Summary_Report
 ` file.
 3. Open the `ToeWaiAung.pbix` file in Power BI Desktop to explore the interactive report.
-4. Review the source CSV in the `fmcg_sales_marketing_profitability_2023_2025_Source` file.
+4. Review the source CSV in the [`fmcg_sales_marketing_profitability_2023_2025_Source` file](https://www.kaggle.com/datasets/atharvasoundankar/fmcg-sales-marketing-and-profit-data?resource=download).
 
 ## Notes
 
